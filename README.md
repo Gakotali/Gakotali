@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gakotali
 - 👀 I’m interested in learning more about AI and automation.
-- 🌱 I’m currently learning Cucumber-Playwright.
+- 🌱 My favorite automation tool are Cypress and Playwright.
 - 💞️ I’m looking to collaborate on projects that are looking for inovation with Artificial Intelligence.
 - 📫 How to reach me Gakotali@outlook.com
 
